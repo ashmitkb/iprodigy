@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ashmitkb/iprodigy/static/css/main.61ad5797.css",
-    "main.js": "/ashmitkb/iprodigy/static/js/main.1037b475.js",
-    "index.html": "/ashmitkb/iprodigy/index.html",
-    "main.61ad5797.css.map": "/ashmitkb/iprodigy/static/css/main.61ad5797.css.map",
-    "main.1037b475.js.map": "/ashmitkb/iprodigy/static/js/main.1037b475.js.map"
+    "main.css": "/iprodigy/static/css/main.61ad5797.css",
+    "main.js": "/iprodigy/static/js/main.1037b475.js",
+    "index.html": "/iprodigy/index.html",
+    "main.61ad5797.css.map": "/iprodigy/static/css/main.61ad5797.css.map",
+    "main.1037b475.js.map": "/iprodigy/static/js/main.1037b475.js.map"
   },
   "entrypoints": [
     "static/css/main.61ad5797.css",
