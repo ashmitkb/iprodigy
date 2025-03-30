@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/iprodigy/static/css/main.a1c92bd5.css",
-    "main.js": "/iprodigy/static/js/main.5c1941d7.js",
+    "main.css": "/iprodigy/static/css/main.b2a1ac46.css",
+    "main.js": "/iprodigy/static/js/main.81782086.js",
     "static/js/453.a3182151.chunk.js": "/iprodigy/static/js/453.a3182151.chunk.js",
     "static/media/founderimg.png": "/iprodigy/static/media/founderimg.88841c549bd4e34583c1.png",
+    "static/media/promiseimg.png": "/iprodigy/static/media/promiseimg.9ae336e71e3fa9b40b84.png",
+    "static/media/serviceimg.png": "/iprodigy/static/media/serviceimg.1c725979e04a57a8f1c8.png",
+    "static/media/moreservice.png": "/iprodigy/static/media/moreservice.595d0213890c79d32d15.png",
     "static/media/bgp12.png": "/iprodigy/static/media/bgp12.53491aaeb60f08c80cf0.png",
+    "static/media/img.png": "/iprodigy/static/media/img.fecb239f2df05a6f432d.png",
     "static/media/team.png": "/iprodigy/static/media/team.f439b62510665a6972a4.png",
     "index.html": "/iprodigy/index.html",
-    "main.a1c92bd5.css.map": "/iprodigy/static/css/main.a1c92bd5.css.map",
-    "main.5c1941d7.js.map": "/iprodigy/static/js/main.5c1941d7.js.map",
+    "main.b2a1ac46.css.map": "/iprodigy/static/css/main.b2a1ac46.css.map",
+    "main.81782086.js.map": "/iprodigy/static/js/main.81782086.js.map",
     "453.a3182151.chunk.js.map": "/iprodigy/static/js/453.a3182151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1c92bd5.css",
-    "static/js/main.5c1941d7.js"
+    "static/css/main.b2a1ac46.css",
+    "static/js/main.81782086.js"
   ]
 }
