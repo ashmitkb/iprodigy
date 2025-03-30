@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/iprodigy/static/css/main.463b3f7b.css",
-    "main.js": "/iprodigy/static/js/main.d9117005.js",
+    "main.css": "/iprodigy/static/css/main.a1c92bd5.css",
+    "main.js": "/iprodigy/static/js/main.5c1941d7.js",
     "static/js/453.a3182151.chunk.js": "/iprodigy/static/js/453.a3182151.chunk.js",
     "static/media/founderimg.png": "/iprodigy/static/media/founderimg.88841c549bd4e34583c1.png",
-    "static/media/bgp12.png": "/iprodigy/static/media/bgp12.a34aa3e9d0fb6ca195d8.png",
+    "static/media/bgp12.png": "/iprodigy/static/media/bgp12.53491aaeb60f08c80cf0.png",
     "static/media/team.png": "/iprodigy/static/media/team.f439b62510665a6972a4.png",
-    "static/media/aboutbgp.png": "/iprodigy/static/media/aboutbgp.e10fb118846be604e505.png",
-    "static/media/contactbgp.png": "/iprodigy/static/media/contactbgp.37d9747e02906822441a.png",
-    "static/media/founderbgp.png": "/iprodigy/static/media/founderbgp.1a56da0d0690ee77a3e1.png",
     "index.html": "/iprodigy/index.html",
-    "main.463b3f7b.css.map": "/iprodigy/static/css/main.463b3f7b.css.map",
-    "main.d9117005.js.map": "/iprodigy/static/js/main.d9117005.js.map",
+    "main.a1c92bd5.css.map": "/iprodigy/static/css/main.a1c92bd5.css.map",
+    "main.5c1941d7.js.map": "/iprodigy/static/js/main.5c1941d7.js.map",
     "453.a3182151.chunk.js.map": "/iprodigy/static/js/453.a3182151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.463b3f7b.css",
-    "static/js/main.d9117005.js"
+    "static/css/main.a1c92bd5.css",
+    "static/js/main.5c1941d7.js"
   ]
 }
